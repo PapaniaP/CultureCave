@@ -2,6 +2,8 @@
 
 Culture Cave is a web project that I developed as my solo exam project in December 2022. The objective of this project was to create a website dedicated to uncovering the hidden gems of Verona, Italy, ranging from food spots to wine shops and charming bars.
 
+![Culture Cave](images/DesktopShot.jpeg)
+
 ## Project Overview
 
 - **Name:** Culture Cave
@@ -9,6 +11,8 @@ Culture Cave is a web project that I developed as my solo exam project in Decemb
 - **Date:** December 2022
 - **Technology Stack:** HTML, CSS, JavaScript
 - **Design Tool:** Adobe XD
+
+---
 
 - [Culture Cave](#culture-cave)
   - [Project Overview](#project-overview)
@@ -21,6 +25,8 @@ Culture Cave is a web project that I developed as my solo exam project in Decemb
     - [Development Phase](#development-phase)
   - [Known Issues](#known-issues)
   - [Project Showcase](#project-showcase)
+
+---
 
 ## About Culture Cave
 
@@ -61,6 +67,8 @@ While Culture Cave represents a significant achievement, it's important to ackno
 ## Project Showcase
 
 You can access the Culture Cave project [here](https://papaniap.github.io/CultureCave/). Please note that while the project is functional, it may contain unresolved issues.
+
+![Culture Cave Mobile](images/mobile.png)
 
 For more details about the project or to explore its source code, feel free to reach out to me.
 
