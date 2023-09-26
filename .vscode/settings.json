@@ -1,3 +1,17 @@
 {
-  "liveServer.settings.port": 5501
+	"liveServer.settings.port": 5501,
+	"workbench.colorCustomizations": {
+		"commandCenter.border": "#15202b99",
+		"panel.border": "#eeeff0",
+		"statusBar.background": "#d4d6d7",
+		"statusBar.foreground": "#15202b",
+		"statusBarItem.hoverBackground": "#babdbe",
+		"statusBarItem.remoteBackground": "#d4d6d7",
+		"statusBarItem.remoteForeground": "#15202b",
+		"titleBar.activeBackground": "#d4d6d7",
+		"titleBar.activeForeground": "#15202b",
+		"titleBar.inactiveBackground": "#d4d6d799",
+		"titleBar.inactiveForeground": "#15202b99"
+	},
+	"peacock.color": "#d4d6d7"
 }

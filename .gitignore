@@ -1,0 +1,17 @@
+# Visual Studio Code settings
+.vscode/
+
+# User-specific settings
+.vscode/settings.json
+
+# Workspace settings
+.vscode/*.code-workspace
+
+# .vscodeignore file
+.vscodeignore
+
+.ssh/
+
+.ssh/id_rsa
+
+.ssh/id_rsa.pub
