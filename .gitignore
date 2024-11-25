@@ -17,3 +17,6 @@
 .ssh/id_rsa.pub
 
 .bash_history
+
+ds_store
+.ds_store
